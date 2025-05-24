@@ -1,3 +1,4 @@
+![Screenshot 2025-05-24 135322](https://github.com/user-attachments/assets/6d1aab78-6a77-4c8a-8ad0-1539f1a37269)
 # 🧠 Deep Q-Learning Agent on Custom FrozenLake (3x3 Grid)
 
 This is a minimalist implementation of a Deep Q-Network (DQN) agent that learns to navigate a custom-made 3x3 FrozenLake-style environment. The environment has a start state, goal state, and a hole (failure state). The agent learns to reach the goal while avoiding the hole using reinforcement learning.
